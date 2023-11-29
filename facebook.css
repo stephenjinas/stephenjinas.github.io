@@ -10,8 +10,6 @@
 h1{
     color: rgb(31, 8, 240);
     text-align: center;
-    
-  
 }
 #lan a{
     color: rgb(0, 0, 255);
@@ -53,7 +51,7 @@ form{
 
 
 }
-div, password{
+div,  password{
     text-align: left;
 }
 input{
@@ -74,3 +72,6 @@ h3{
     text-align: left;
     line-height: 20px;
 }
+
+    
+                                    
