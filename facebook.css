@@ -1,0 +1,82 @@
+#log{
+    color: #e1e1eb;
+    text-align: center;
+    background-color: blue;
+    font-size: 20px;
+}
+.forgot{
+    color: blue;
+}
+h1{
+    color: rgb(31, 8, 240);
+    text-align: center;
+}
+#lan a{
+    color: rgb(0, 0, 255);
+    
+}
+h3{
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+#creat{
+    color: white;
+    background-color: green;
+    text-align: center;
+    width: 250px;
+    margin-left: 10%;
+    height: 40px;
+    font-size: 30px;
+}
+.or{
+    text-align: auto;
+}
+#mark{
+    color: red;
+    font-size: 50px;
+}
+form{
+    margin: auto;
+    padding: 10px;
+    border-radius: auto;
+    box-shadow: 5px 5px 20px 20px rgb(0, 0, 255);
+    text-align: center;
+    height: auto;
+    border-top: 200px;
+    border-left: 200px;
+    border-left: 200px;
+    max-width: 300px;
+    background-color:transparent;
+
+
+
+}
+div,  password{
+    text-align: left;
+}
+input{
+    width: 250px;
+    height: 20px;
+    border-color:blue;
+}
+h4{
+    color: red;
+    text-align: center;
+}
+marquee{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20PX;
+
+}
+h3{
+    text-align: left;
+    line-height: 20px;
+}
+:hover input{
+color: blue;
+
+}
+
+    
+                                    
