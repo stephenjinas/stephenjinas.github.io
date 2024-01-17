@@ -1,1 +1,1 @@
-html, cssand js files
+html, css and js files
